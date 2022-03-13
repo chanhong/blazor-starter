@@ -5,4 +5,8 @@
     <RootNamespace>BlazorApp.Shared</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="react.js" Version="0.14.7" />
+  </ItemGroup>
+
 </Project>
